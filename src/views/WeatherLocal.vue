@@ -40,7 +40,7 @@
                 list:[],
                 cityName:'北京',
                 justShowOne:true,
-                hefengWeatherKey:'b6392c47bff64201aabd1a7e96259b74',
+                hefengWeatherKey:'your key',//这里填你的key，获得方式可以去和风天气官网上看
             }
         },
         beforeMount(){
